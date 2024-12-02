@@ -1,0 +1,6 @@
+nltk
+scikit-fuzzy
+pandas
+numpy
+scipy
+matplotlib
